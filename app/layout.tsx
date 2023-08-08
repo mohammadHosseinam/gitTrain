@@ -16,7 +16,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        <div className='flex bg-slate-400 justify-center h-24 items-center'>any header</div>
+        {children}
+      </body>
     </html>
   )
 }
