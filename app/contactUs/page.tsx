@@ -6,10 +6,10 @@ function page() {
         <div>
             <h1>find us in social networks</h1>
             <ul>
-                <li>instagram</li>
-                <li>email address</li>
-                <li>x</li>
-                <li>whatsup</li>
+                <li>instagram <a href="instagram.com"></a></li>
+                <li>email address <a href="mohammad@gmail.com"></a></li>
+                <li>x <span>towiter sabegh</span></li>
+                <li>whatsup <span>09032153600</span></li>
             </ul>
         </div>
     );
