@@ -8,6 +8,8 @@ function page() {
             <form action="submit">
                 <label htmlFor="name">name</label>
                 <input type="text" name="name" id="name" placeholder='inter your name'/>
+                <label htmlFor="email">email</label>
+                <input type="email" name="email" id="email" placeholder='inter your email'/>
                 <label htmlFor="password">password</label>
                 <input type="password" name="password" id="password" placeholder='inter your password'/>
                 <label htmlFor="repassword">reapit password</label>
